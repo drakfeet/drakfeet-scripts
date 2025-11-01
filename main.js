@@ -18,6 +18,7 @@
     "https://cdn.jsdelivr.net/gh/drakfeet/drakfeet-scripts/prontaentrega.js",
     "https://cdn.jsdelivr.net/gh/drakfeet/drakfeet-scripts/provasocial.js",
     "https://cdn.jsdelivr.net/gh/drakfeet/drakfeet-scripts/removetext.js",
+    "https://cdn.jsdelivr.net/gh/drakfeet/drakfeet-scripts/correios.js",
   ];
 
   // Função para carregar os scripts de forma segura e ordenada
